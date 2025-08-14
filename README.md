@@ -26,8 +26,8 @@ Developing Interactive Dashboards
 
 Below are some of the projects where I apply my data analysis skills to real-world scenarios. Click on any to dive deeper into the code and analysis!
 1. <a href="https://github.com/Swmukherjee/ECommerce_Sales_Dashboard">E-commerce Sales Dashboard</a>.
-2. Customer Churn Prediction <a href="https://github.com/Swmukherjee/Customer_Churn_prediction">here</a>.
-3. Music Store Analysis <a href="https://github.com/Swmukherjee/Music-Store-Analysis">here</a>.
+2. <a href="https://github.com/Swmukherjee/Customer_Churn_prediction">Customer Churn Prediction</a>.
+3. <a href="https://github.com/Swmukherjee/Music-Store-Analysis">Music Store Analysis</a>.
 4. Python Built Churn Project <a href="https://github.com/Swmukherjee/Python_built_churn_Project">here</a>.
 5. Supply Chain Analysis <a href="https://github.com/Swmukherjee/Supply_Chain_analytics">here</a>.
 6. HR Employee Attrition Analysis<a href="https://github.com/Swmukherjee/HR_Employee_Attrition_Analysis">here</a>.
