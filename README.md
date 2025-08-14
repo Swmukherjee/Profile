@@ -39,7 +39,7 @@ Below are some of the projects where I apply my data analysis skills to real-wor
 
 ✉️ Let's Connect!
 
-<a href="https://www.linkedin.com/in/swapnilmukherjee2204/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/swapnilmukherjee2204/">LinkedIn</a> <a href="https://drive.google.com/file/d/1kPt7xPqH-KE5r8J7PtTa9HczChsPsW8G/view?usp=sharing">Resume</a>
 
 Email: SWAPNILM2204@GMAIL.COM
 
