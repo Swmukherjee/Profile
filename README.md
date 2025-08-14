@@ -30,7 +30,7 @@ Below are some of the projects where I apply my data analysis skills to real-wor
 3. Music Store Analysis <a href="https://github.com/Swmukherjee/Music-Store-Analysis">here</a>.
 4. Python Built Churn Project <a href="https://github.com/Swmukherjee/Python_built_churn_Project">here</a>.
 5. Supply Chain Analysis <a href="https://github.com/Swmukherjee/Supply_Chain_analytics">here</a>.
-6. HR Employee Attrition Analysis:<a href="https://github.com/Swmukherjee/HR_Employee_Attrition_Analysis">here</a>.
+6. HR Employee Attrition Analysis<a href="https://github.com/Swmukherjee/HR_Employee_Attrition_Analysis">here</a>.
 7. EDA and Fraud Deduction <a href="https://github.com/Swmukherjee/EDA_and_Fraud_deduction">here</a>.
 8. Data Analyst Portfolio <a href="https://github.com/Swmukherjee/Data_Analyst_Portfolio">here</a>.
 9. Covid-19 Trade Impact Data Analysis <a href="https://github.com/Swmukherjee/Covid-19_Trade_Impact_Data_Analysis">here</a>.
