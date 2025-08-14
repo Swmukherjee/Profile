@@ -1,4 +1,5 @@
 Hi,
+
 I'm Swapnil Mukherjee 👋
 
 A passionate and results-driven aspiring Data Analyst with a strong foundation in extracting actionable insights from complex datasets. I leverage a robust skillset in Python, SQL, and leading visualization tools like Power BI and Tableau to transform raw data into clear, impactful business intelligence.
