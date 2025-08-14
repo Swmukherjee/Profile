@@ -25,15 +25,15 @@ Developing Interactive Dashboards
 💼 Explore My Work
 
 Below are some of the projects where I apply my data analysis skills to real-world scenarios. Click on any to dive deeper into the code and analysis!
-1. E-commerce Sales Performance Dashboard  <a href="https://github.com/Swmukherjee/ECommerce_Sales_Dashboard">here</a>.
-2. Customer Churn Prediction & Analysis
-3. Public Healthcare Data Analysis & Trend Identification
-4. Social Media Sentiment Analysis for Brand Insights
-5. Supply Chain Optimization Analysis
-6. HR Analytics: Employee Attrition & Engagement Factors
-7. Financial Transaction Fraud Detection (Exploratory Analysis)
-8. Website Traffic & User Behavior Analysis
-9. Energy Consumption Pattern Analysis
+1. E-commerce Sales Dashboard  <a href="https://github.com/Swmukherjee/ECommerce_Sales_Dashboard">here</a>.
+2. Customer Churn Prediction <a href="https://github.com/Swmukherjee/Customer_Churn_prediction">here</a>.
+3. Music Store Analysis <a href="https://github.com/Swmukherjee/Music-Store-Analysis">here</a>.
+4. Python Built Churn Project <a href="https://github.com/Swmukherjee/Python_built_churn_Project">here</a>.
+5. Supply Chain Analysis <a href="https://github.com/Swmukherjee/Supply_Chain_analytics">here</a>.
+6. HR Employee Attrition Analysis:<a href="https://github.com/Swmukherjee/HR_Employee_Attrition_Analysis">here</a>.
+7. EDA and Fraud Deduction <a href="https://github.com/Swmukherjee/EDA_and_Fraud_deduction">here</a>.
+8. Data Analyst Portfolio <a href="https://github.com/Swmukherjee/Data_Analyst_Portfolio">here</a>.
+9. Covid-19 Trade Impact Data Analysis <a href="https://github.com/Swmukherjee/Covid-19_Trade_Impact_Data_Analysis">here</a>.
 
 
 ✉️ Let's Connect!
