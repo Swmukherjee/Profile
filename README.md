@@ -25,7 +25,7 @@ Developing Interactive Dashboards
 💼 Explore My Work
 
 Below are some of the projects where I apply my data analysis skills to real-world scenarios. Click on any to dive deeper into the code and analysis!
-1. E-commerce Sales Performance Dashboard (https://github.com/Swmukherjee/ECommerce_Sales_Dashboard.html).
+1. E-commerce Sales Performance Dashboard https://github.com/Swmukherjee/ECommerce_Sales_Dashboard
 2. Customer Churn Prediction & Analysis
 3. Public Healthcare Data Analysis & Trend Identification
 4. Social Media Sentiment Analysis for Brand Insights
